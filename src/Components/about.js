@@ -21,7 +21,7 @@ export default function About() {
                      <p>
                         <span>IDHAM BIN MAZLAN</span><br/>
                         <span>SHAH ALAM , SELANGOR</span><br/>
-                        <span>01114322234 (whatsapp)</span><br/>
+                        <span>0172822871 (whatsapp)</span><br/>
                         <span>azadam8255@gmail.com (email)</span>
                      </p>
                   </div>
