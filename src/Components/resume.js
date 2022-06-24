@@ -58,7 +58,76 @@ const works = [
       { name: 'Git', icon: 'fab fa-git-square' },
       { name: 'Jira', icon: 'fab fa-jira' },
       { name: 'Confluence', icon: 'fab fa-confluence' },
-	  { name: 'ethereum', icon: 'fab fa-ethereum' },
+      { name: 'ethereum', icon: 'fab fa-ethereum' },
+    ],
+  },
+  {
+    company: 'Bawallory Sdn Bhd',
+    position: 'Full Stack Software  ',
+    date: '2022 - current ',
+    description: () => {
+      return (
+        <ul style={squareListType}>
+          <li>
+            Work with development teams and products managers to ideate software solutions
+          </li>
+          <li>
+            	Develop and amnage well funtionings database and application
+          </li>
+          <li>
+            	Write effective API
+
+          </li>
+          <li>
+            	Test software to ensure responsive and efficiency
+          </li>
+          <li>
+            	Troubleshoot, debug and upgrade software
+
+          </li>
+          <li>
+            	Work with Back-end developers to integrate ui components with apis and databases
+
+          </li>
+          <li>
+            	Gather and refine specifications and requirement based on technical requirement or ux design
+
+          </li>
+          <li>
+            	Debug errors, troubleshoot issues and perform routine performance optimization
+
+          </li>
+          <li>
+            	On-site Search engine opimization(SEO)
+
+          </li>
+          <li>
+            	Stay plugged into emerging technologies and industry trends
+
+          </li>
+
+        </ul>
+      )
+    },
+    technologies: [
+      { name: 'JavaScript', icon: 'fab fa-js-square' },
+      { name: 'Node.js', icon: 'fab fa-node' },
+      { name: 'Three.js', icon: 'fas fa-cubes' },
+      { name: 'React.js', icon: 'fab fa-react' },
+      { name: 'HTML5', icon: 'fab fa-html5' },
+      { name: 'CSS3', icon: 'fab fa-css3-alt' },
+      { name: 'Vue.js', icon: 'fab fa-vuejs' },
+      { name: 'Docker', icon: 'fab fa-docker' },
+      { name: 'GCloud', icon: 'fab fa-google' },
+      { name: 'Kubernetes', icon: 'fas fa-dharmachakra' },
+      { name: 'Python', icon: 'fab fa-python' },
+      { name: 'MongoDB', icon: 'fab fa-mdb' },
+      { name: 'MySQL', icon: 'fas fa-database' },
+      { name: 'Ubuntu', icon: 'fab fa-ubuntu' },
+      { name: 'Git', icon: 'fab fa-git-square' },
+      { name: 'Jira', icon: 'fab fa-jira' },
+      { name: 'Confluence', icon: 'fab fa-confluence' },
+      { name: 'ethereum', icon: 'fab fa-ethereum' },
     ],
   },
 
