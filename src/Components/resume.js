@@ -186,7 +186,7 @@ export default function Resume() {
               </div>
               <div className="flex-row">
                 <div>
-                  <h3>UNIVERSITI TEKNOLOGY MARA(UiTM)</h3>
+                  <h3>UNIVERSITI TEKNOLOGY MARA(UiTM)</h3> 
                   <p className="info">
                   <em className="date">2018 — 2022</em>
 
