@@ -168,7 +168,8 @@ export default function Resume() {
                 <div>
                   <h3>UNIVERSITI TEKNOLOGY MARA(UiTM)</h3>
                   <p className="info">
-                    <em className="date">2018 — 2022</em>
+                    <em className="date">2014 — 2018</em>
+
                     <span>&bull;</span>
                     DIPLOMA COMPUTER SAINS '&' MATHEMATIK
                   </p>
@@ -187,7 +188,8 @@ export default function Resume() {
                 <div>
                   <h3>UNIVERSITI TEKNOLOGY MARA(UiTM)</h3>
                   <p className="info">
-                    <em className="date">2014 — 2018</em>
+                  <em className="date">2018 — 2022</em>
+
                     <span>&bull;</span>
                     BACHELOR OF COMPUTER SCIENCE (HONS.) NETCENTRIC COMPUTING
                   </p>
